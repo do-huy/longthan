@@ -1,0 +1,251 @@
+#sinh{
+	background-color: red;
+}
+.navbar-inverse {
+    background-color: #CC0000 !important;
+    border-color: #CC0000 !important;
+}
+.navbar{
+	margin-bottom: 0px !important;
+	border-radius: 0px !important;
+}
+a {
+    color: #fff !important;
+    font-size: 18px;
+    text-decoration: none;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+.imglogo{
+	width:100%;
+	max-height: 50px;
+	background-color:#CC0000;
+	margin-top: 12px;
+}
+#huy{
+	background-color: #CC0000 !important;
+}
+.row {
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
+#banner{
+	width: 100%;
+	max-height: 450px;
+}
+#note{
+	font-size: 18px;
+	color: #CC0000;
+	text-align: center;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+#footer{
+	background-color: #CC0000;
+	font-size: 18px;
+	font-family: 'Roboto Condensed', sans-serif;
+	color: #fff;
+}
+.detail {
+	font-size: 18px;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.detail1{
+	font-size: 18px;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+#footerimg{
+	width: 100%;
+	max-height: 3px;
+	margin-bottom: 20px;
+}
+#vdtgroup{
+	width: 100px;
+	max-height: 90px;
+}
+
+.fa-map-marked-alt{
+	color: #CC0000;
+}
+#address{
+	font-size: 18px;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+#dichvu{
+	font-size: 18px;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.fa-phone-volume{
+	color: #CC0000;
+}
+#lk{
+	color: #CC0000;
+	text-align: center;
+	font-size: 18px;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+#fb{
+	color: #0033FF;
+	text-align: center;
+	font-size: 24px;
+}
+#fb1{
+	color: #0033FF !important;
+	font-size: 24px;
+}
+#inputs{
+	width: 100% !important;
+}
+#texts{
+	font-size: 18px;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+#textss{
+	font-size: 18px;
+	font-family: 'Roboto Condensed', sans-serif;
+	text-align: center;
+	color: #CC0000;
+}
+#price{
+	font-size: 18px;
+	font-family: 'Roboto Condensed', sans-serif;
+	text-align: center;
+	color: #CC0000;
+}
+#ungtien{
+	font-size: 18px;
+	font-family: 'Roboto Condensed', sans-serif;
+	text-align: center;
+	color: #CC0000;
+}
+#ss{
+	font-size: 18px;
+	font-family: 'Roboto Condensed', sans-serif;
+	color: #CC0000;
+}
+#vdtg{
+width: 100%;
+max-height: 100%;
+}
+#vdtg1{
+	font-size: 18px;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+#tamnhin{
+	width: 80px;
+	max-height:80px;
+}
+#giua{
+	text-align: center;
+	font-size: 18px;
+	font-family: 'Roboto Condensed', sans-serif;
+	
+}
+#vdtg2{
+	font-size: 18px;
+	font-family: 'Roboto Condensed', sans-serif;
+	text-align: center;
+	color: #CC0000;
+}
+#dathangf{
+	text-align: center;
+	font-size: 18px;
+	font-family: 'Roboto Condensed', sans-serif;
+	color: #CC0000;
+}
+#dathangf1{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+#hcm{
+	width: 100%;
+	max-height: 300px;
+}
+#hcm1{
+	font-size: 18px;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+#tabbb{
+	color: #CC0000 !important;
+	font-size: 18px !important;
+	font-family: 'Roboto Condensed', sans-serif !important;
+}
+.navbar-default {
+    background-color: #EEEEEE !important;
+    border-color: #EEEEEE !important;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #555;
+    background-color: #EEEEEE !important;
+}
+#tienich{
+	width: 100%;
+	max-height: 300px;
+}
+#tabbbbb{
+	font-size: 18px;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+#vdtexpress{
+	color: #CC0000 !important;
+	font-size: 18px !important;
+	font-family: 'Roboto Condensed', sans-serif !important;
+}
+#gps{
+	width: 100%;
+	max-height: 220px;
+}
+#login{
+	color: #CC0000 !important;
+	font-size: 18px !important;
+	font-family: 'Roboto Condensed', sans-serif !important;
+}
+.boxs{
+	/*background-color: #ccc !important;*/
+	max-width: 400px;
+	/*text-align: center;*/
+	margin: 50px;
+}
+#imglogin{
+	max-width: 200px;
+	max-height: 200px;
+	margin-top: 15px;
+}
+#pqas{
+	text-align: center;
+}
+
+.box{
+	background-color: #ccc !important;
+	max-width: 400px;
+}
+#re{
+	text-align: center;
+}
+#province{
+	width: 100%;
+	height: 30px;
+}
+#imgregister{
+	text-align: center;
+}
+#adminindex{
+	background-color: #EEEEEE;
+}
+#bodysss{
+	background-image: url("/images/bodysss.jpg") !important;
+}
+#dkiiii{
+	color: #CC0000 !important;
+	font-size: 16px !important;
+}
+#bodyssss{
+	background-image: url("/images/vivi.jpg") !important;
+}
+#relogin{
+	color: #CC0000 !important;
+	font-family: 'Roboto Condensed', sans-serif !important;
+}
+#reelogin{
+	color: #000 !important;
+	font-family: 'Roboto Condensed', sans-serif !important;
+}
